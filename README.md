@@ -2,7 +2,7 @@
 - 🌱 Atualmente estou aprendendo JavaScript 
 - 🤔 Atualmente estou precisando de ajuda em API e JavaScript
 ##
-[![Lean-dro GitHub stats](https://github-readme-stats.vercel.app/api?username=lean-dro&show_icons=true&theme=dark&locale=pt-br)](https://github.com/lean-dro/github-readme-stats)
+[![Lean-dro GitHub stats](https://github-readme-stats.vercel.app/api?username=lean-dro&show_icons=true&theme=dark&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lean-dro&show_icons=true&theme=dark&locale=pt-br&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
