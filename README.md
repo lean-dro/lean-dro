@@ -1,7 +1,7 @@
 <img align="right" width="150" src="https://c.tenor.com/JbCR18dg7qkAAAAC/duck-pixel.gif" />
 
 ### Olá, eu sou o Leandro 😊👋
-- 👨🏽‍🎓 Atualmente sou estudante técncico de Desenvolvimento de Sistemas
+- 👨🏽‍🎓 Atualmente sou estudante técnico de Desenvolvimento de Sistemas
 - 🔥 Nesse momento estou estudando e pesquisando sobre Firebase 
 ##
 <div align="center"> 
