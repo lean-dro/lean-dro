@@ -9,15 +9,14 @@
 <a target="_blank" href="https://www.linkedin.com/in/leandro-coelho-2942a9220"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
+
 ##
 <div align="center"> 
-
 <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lean-dro&show_icons=true&theme=dark&locale=pt-br&layout=compact"/>
 </div>
 
 ##
-<div align="center">
-          
+<div align="center">    
 <a href="https://www.credly.com/badges/035f7333-5c05-4b4e-a2ee-b4c0e8aa484f/public_url"><img align="center" width="75"  src="https://images.credly.com/size/110x110/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" /></a>
 
 
