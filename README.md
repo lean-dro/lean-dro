@@ -1,4 +1,4 @@
-<img align="right" width="150" src="https://c.tenor.com/JbCR18dg7qkAAAAC/duck-pixel.gif" />
+<img align="right" width="150" src="https://c.tenor.com/Jxbk24m0vV4AAAAM/vibe-rabbit.gif" />
 
 ### Olá, eu sou o Leandro 😊👋
 - 👨🏽‍🎓 Atualmente sou estudante técnico de Desenvolvimento de Sistemas
