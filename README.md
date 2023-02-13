@@ -1,7 +1,7 @@
 <img align="right" width="150" src="https://c.tenor.com/Jxbk24m0vV4AAAAM/vibe-rabbit.gif" />
 
 ### Olá, eu sou o Leandro 😊👋
-- 👨🏽‍🎓 Atualmente sou estudante técnico de Análise e Desenvolvimento de Sistemas
+- 👨🏽‍🎓 Atualmente sou estudante de Análise e Desenvolvimento de Sistemas
 
 <div>
 <a target="_blank" href="https://www.linkedin.com/in/leandro-coelho-2942a9220"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
