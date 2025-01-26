@@ -3,8 +3,8 @@
 ### Olá, eu sou o Leandro 😊👋
 <img width="150" src="https://c.tenor.com/Jxbk24m0vV4AAAAM/vibe-rabbit.gif" />
 
-- Técnico em Desenvolvimento de Sistemas
-- 👨🏽‍🎓 Atualmente sou estudante de Análise e Desenvolvimento de Sistemas
+- 👨🏽‍🎓 Técnico em Desenvolvimento de Sistemas
+- 👨🏽‍🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas
 <img align="right" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lean-dro&hide=html,css&show_icons=true&theme=dark&locale=pt-br&layout=compact"/>
 
 <div>
